@@ -1,0 +1,8 @@
+{
+  "name": "claude-clamshell",
+  "displayName": "Claude Clamshell",
+  "version": "1.0.0",
+  "description": "Prevents your Mac from sleeping while Claude Code is actively working. Close the lid and walk away - your Mac stays awake during Claude's turn and sleeps when it's waiting for your input.",
+  "keywords": ["mac", "macos", "sleep", "caffeinate", "lid", "clamshell"],
+  "license": "MIT"
+}
