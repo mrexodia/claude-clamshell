@@ -14,7 +14,7 @@ if [ "$BG_COUNT" -gt 0 ]; then
   exit 0
 fi
 
-PIDFILE="/tmp/claude-caffeinate-${SESSION_ID}.pid"
+PIDFILE="/tmp/claude-clamshell-${SESSION_ID}.pid"
 
 if [ -f "$PIDFILE" ]; then
   kill "$(cat "$PIDFILE")" 2>/dev/null
