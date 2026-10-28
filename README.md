@@ -11,7 +11,7 @@ Prevents your Mac from sleeping while Claude Code is actively working. Close the
 
 ```bash
 claude plugin marketplace add mrexodia/claude-marketplace
-claude plugin install claude-clamshell@mrexodia
+claude plugin install clamshell@mrexodia
 ```
 
 ## How it works
